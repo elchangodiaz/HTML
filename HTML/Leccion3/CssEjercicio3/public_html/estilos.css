@@ -1,0 +1,30 @@
+body{
+    background:black;
+    font-family: "Arial Narrow";
+    color:white;
+}
+
+h1{
+    font-size:xx-large; 
+}
+
+p{
+    font-weight: bolder;
+    background: graytext;
+}
+
+/*Agregamos una nueva clase
+aplicable a cualquier html*/
+
+.resaltado{
+    font-weight: bold;
+    background: background;
+}
+
+.nuevaClase{
+    font-family: "century gothic";
+    font-weight: bold;
+    background: orangered;
+}
+
+

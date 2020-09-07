@@ -1,0 +1,10 @@
+            /*se definen las propiedades de los estilos
+            prioridad 3: aplican despues de los estilos definidos en el doc html
+            y despues de los aplicados a elementos html*/
+            
+            body{
+                background:#FFB634;
+                color:#EB309A;
+                font-family:"Century Gothic";
+                }
+            
